@@ -30,6 +30,7 @@ For unsupported modules, an error like this will be thrown: '<module_name> modul
 **Transaction Details:**
 - Contract: https://testnetscan.scschain.com/tx/0x544679fb2672023cfc8e4d43bc8cdd9431895ee46ff558fc4411370a10156564
 - Create Pair: https://testnetscan.scschain.com/tx/0x4b51d85e5b453d819a49581738f8000b3c9960bbfe7276f87bbee537fd1db520
+- Address: 0xB26444db4062440543919361d7A19db1495F5785
 
 **resources:**
 - https://superexchain.github.io/smart-contract/deployment/remix.html
