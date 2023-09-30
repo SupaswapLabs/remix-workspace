@@ -28,4 +28,9 @@ For now, modules supported by Remix are ethers, web3, swarmgw, chai, multihashes
 For unsupported modules, an error like this will be thrown: '<module_name> module require is not supported by Remix IDE' will be shown.
 
 **Transaction Details:**
-https://testnetscan.scschain.com/tx/0x544679fb2672023cfc8e4d43bc8cdd9431895ee46ff558fc4411370a10156564
+- Contract: https://testnetscan.scschain.com/tx/0x544679fb2672023cfc8e4d43bc8cdd9431895ee46ff558fc4411370a10156564
+- Create Pair: https://testnetscan.scschain.com/tx/0x4b51d85e5b453d819a49581738f8000b3c9960bbfe7276f87bbee537fd1db520
+
+**resources:**
+- https://superexchain.github.io/smart-contract/deployment/remix.html
+- https://testnetscan.scschain.com/api-docs
