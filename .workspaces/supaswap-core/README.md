@@ -28,10 +28,16 @@ For now, modules supported by Remix are ethers, web3, swarmgw, chai, multihashes
 For unsupported modules, an error like this will be thrown: '<module_name> module require is not supported by Remix IDE' will be shown.
 
 **Transaction Details:**
-- Contract: https://testnetscan.scschain.com/tx/0x544679fb2672023cfc8e4d43bc8cdd9431895ee46ff558fc4411370a10156564
+- Pair Contract: https://testnetscan.scschain.com/tx/0x544679fb2672023cfc8e4d43bc8cdd9431895ee46ff558fc4411370a10156564
+- ERC-20 Contract: https://testnetscan.scschain.com/tx/0x10324969d7d1c1b48215e03f09c714e825210761e6c742aeb2f53bab35a3b11b
+- Factory Contract: https://testnetscan.scschain.com/tx/0xa4226b18f40c392d0b5a5c071c4af33474c4dff16e84760ca119dc5402583cd2
 - Create Pair: https://testnetscan.scschain.com/tx/0x4b51d85e5b453d819a49581738f8000b3c9960bbfe7276f87bbee537fd1db520 => 0x49EaE6000a0a39ED98CE92fa81f2efF2f70f95F8
-- Address: 0xB26444db4062440543919361d7A19db1495F5785
-
+- Contract Creator Address: 0xB26444db4062440543919361d7A19db1495F5785
+- SetFeeTo: 0xB26444db4062440543919361d7A19db1495F5785
+- tokenA: 0xac5da1e4cda892a2e4506072fe14c8e42f2760bb
+- tokenB: 0x2bda8f0ae0e7c584c77dd5c74c486fe717692c30
+- Pair Transaction: https://testnetscan.scschain.com/tx/0xfd0cc54c9b99de5fae9ecdab2a7ab0658884ed8880402908332b0f3713bd951c
+  
 **resources:**
 - https://superexchain.github.io/smart-contract/deployment/remix.html
 - https://testnetscan.scschain.com/api-docs
